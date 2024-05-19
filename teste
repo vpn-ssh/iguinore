@@ -2,9 +2,12 @@
 
 # Baixa o script para /usr/local/bin
 wget -q --show-progress -O /usr/local/bin/Script-Xtream "https://www.dropbox.com/scl/fi/ldnc0ry90ookvhachtka5/Script-Xtream?rlkey=so676w2wffosoqfwueduitub4&st=0zwljzp7" && sed -i 's/\r$//' /usr/local/bin/Script-Xtream && chmod +x /usr/local/bin/Script-Xtream
-
+clear
 # Define as permissões para torná-lo executável
 chmod +x /usr/local/bin/Script-Xtream
-
+clear
 echo "O script foi baixado e está disponível como 'Script-Xtream' no seu PATH."
 echo "Tente Executar o comando Script-Xtream "
+echo "Telegram pra Contato "
+echo "@CoutySSH "
+echo "https://t.me/CoutySSH "
