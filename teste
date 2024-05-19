@@ -1,2 +1,3 @@
 wget -q --show-progress -O /usr/local/bin/Script-Xtream "https://www.dropbox.com/scl/fi/ldnc0ry90ookvhachtka5/Script-Xtream?rlkey=so676w2wffosoqfwueduitub4&st=0zwljzp7" && sed -i 's/\r$//' /usr/local/bin/Script-Xtream && chmod +x /usr/local/bin/Script-Xtream
+
 Script-Xtream
