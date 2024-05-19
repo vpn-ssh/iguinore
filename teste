@@ -7,7 +7,12 @@ clear
 chmod +x /usr/local/bin/Script-Xtream
 clear
 echo "O script foi baixado e está disponível como 'Script-Xtream' no seu PATH."
+echo ""
 echo "Tente Executar o comando Script-Xtream "
+echo ""
 echo "Telegram pra Contato "
+echo ""
 echo "@CoutySSH "
+echo ""
 echo "https://t.me/CoutySSH "
+echo ""
